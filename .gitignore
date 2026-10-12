@@ -1,0 +1,11 @@
+# Visual Studio caches
+**/.vs/
+
+# Unreal generated files
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+/HomeRun/Binaries/
+
+# Generated Visual Studio solution (Source/*.Target.cs and *.Build.cs stay tracked)
+/HomeRun/*.sln
